@@ -74,9 +74,9 @@ Here are example outputs generated using **SAM3** on **NRSC Bhuvan 1 m resolutio
 
 | Sample | SAM3 Building Mask Output |
 |------|---------------------------|
-| **Sample 1** | ![]([results/screenshots/sample1_output.png](https://github.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/blob/main/Sample1.png)) |
-| **Sample 2** | ![]([results/screenshots/sample2_output.png](https://github.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/blob/main/Sample2.png)) |
-| **Sample 3** | ![]([results/screenshots/sample3_output.png](https://github.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/blob/main/Sample3.png)) |
+| **Sample 1** | ![](https://raw.githubusercontent.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/main/Sample1.png) |
+| **Sample 2** | ![](https://raw.githubusercontent.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/main/Sample2.png) |
+| **Sample 3** | ![](https://raw.githubusercontent.com/Roysubh/Building-Extraction-from-NRSC-Bhuvan-Imagery-using-SAM3-Transformers-/main/Sample3.png) |
 
 ## ⚠️ Notes & Limitations:
 Performance may vary depending on:
