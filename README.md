@@ -1,4 +1,4 @@
-<h1 align="center"><b>🛰️ Building Extraction from NRSC Bhuvan Imagery using SAM3 (Transformers)</b></h1>
+<h1 align="center"><b>🛰️ Building Extraction from NRSC’s Bhuvan High-Resolution Imagery (1 m) using SAM3 (Transformers)</b></h1>
 
 <p align="center">
 Prompt-based building footprint extraction from high-resolution Indian satellite imagery using SAM3
