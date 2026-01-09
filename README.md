@@ -39,15 +39,17 @@ Instead of manual labels, SAM3 is guided using a simple **text prompt**: 'buildi
 | 🤗 **Model Hub** | **Hugging Face** |
 
 ## 🔧 Installation:
-📦 Step 1: Install Required Library:
+Step 1: Install Required Library:
     Install the latest version of **segment-geospatial** with **SAM3** support: **'pip install -U segment-geospatial[samgeo3]'**
-🤗 Step 2: Login to Hugging Face:
+ 
+Step 2: Login to Hugging Face:
     **SAM3** models are downloaded from **Hugging Face**, so authentication is required (only once).
 
 ## 🗺️ Data Preparation (QGIS):
 1️⃣ Load **Bhuvan high-resolution imagery** in QGIS  
 2️⃣ Clip the **AOI**  
 3️⃣ Export as **GeoTIFF**
+
 ✔ **RGB (3-band)**  
 ✔ **CRS preserved**  
 ✔ **Optimized tile size**
